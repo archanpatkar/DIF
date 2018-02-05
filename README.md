@@ -3,6 +3,21 @@
 
 ## Configuration Example
 
+### Main.java
+```java
+  public class Main		
+ {		
+ 		
+     public static void main(String[] args) throws Exception		
+     {		
+         Factory f1 = new Factory("path-to-json//Config.json");        		
+         Segment s1 = (Segment)f1.getInstance("Segment1");		
+         System.out.println(s1);		
+     }		
+ 		
+ }
+ ```
+
 ### Config.json
 ``` json
 {
