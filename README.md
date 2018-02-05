@@ -1,7 +1,8 @@
 # DIF
 ### DIF - Dependancy Injection Framework is written in Java with JSON based Configuration
 
-### DEMO
+
+# DEMO
 
 ## Configuration Example
 
@@ -40,6 +41,8 @@
 ### Main.java
 ```java
  package com.archanpatkar.demo;
+ 
+ import com.archanpatkar.Container.Factory;
 
  public class Main		
  {		
