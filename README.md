@@ -3,8 +3,6 @@
 
 ## Example Usage
 
-### Configuration Example
-
 ### Config.json
 ``` json
 {
@@ -34,8 +32,6 @@
               }
 }
 ```
-
-### Code
 
 ### Main.java
 ```java
