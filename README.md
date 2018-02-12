@@ -1,5 +1,5 @@
 # DIF
-### DIF - Dependancy Injection Framework is written in Java with JSON based Configuration for Java
+### DIF - Dependancy Injection Framework is written in Java with JSON based Configuration for DI in Java
 
 ## Example Usage
 
