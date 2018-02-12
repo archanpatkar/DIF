@@ -1,5 +1,5 @@
 # DIF
-### DIF - Dependancy Injection Framework is written in Java with JSON based Configuration
+### DIF - Dependancy Injection Framework is written in Java with JSON based Configuration for Java
 
 ## Example Usage
 
@@ -28,7 +28,7 @@
                   "Fields":[
                        {"name":"p1","medium":"set","value":"contains-Point1"},
                        {"name":"p2","medium":"set","value":"contains-Point2"}
-                 ]
+                  ]
               }
 }
 ```
