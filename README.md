@@ -1,4 +1,3 @@
-## <img src="noun_818200_cc.svg"/>
 # DIF 💉
 ### Dependancy Injection Framework is for DI in Java with JSON based Configuration 
 
